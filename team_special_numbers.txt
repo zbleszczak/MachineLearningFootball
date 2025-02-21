@@ -1,0 +1,33 @@
+Burnley: 1
+Crystal Palace: 2
+Everton: 3
+Hull: 4
+Man City: 5
+Middlesbrough: 6
+Southampton: 7
+Arsenal: 8
+Bournemouth: 9
+Chelsea: 10
+Man United: 11
+Leicester: 12
+Stoke: 13
+Swansea: 14
+Tottenham: 15
+Watford: 16
+West Brom: 17
+Sunderland: 18
+West Ham: 19
+Liverpool: 20
+Brighton: 21
+Newcastle: 22
+Huddersfield: 23
+Fulham: 24
+Wolves: 25
+Cardiff: 26
+Aston Villa: 27
+Norwich: 28
+Sheffield United: 29
+Brentford: 30
+Nott'm Forest: 31
+Luton: 32
+Leeds: 33
